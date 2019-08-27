@@ -5,4 +5,4 @@ First of all you must to get an api github key such as client ID and client secr
 
 Also u must to point your localhost server's adress (such as http://127.0.0.1:8080) in from's field as Webhook URL, cause events from github api will post to this URL. 
 
-I advice u to use command line in working directory with app (use SHIFT+righclick in working directory) and command '-npm install' for installing requiered modules, then use '-npm install live-server -g' (this is a little development server with live reload capability) and then use 'live-server' to run this local-server in browser and debugging all your's code changes (individually through a file index.html).
+I advice u to use command line in working directory with app (use SHIFT+rightclick in working directory) and command '-npm install' for installing requiered modules, then use '-npm install live-server -g' (this is a little development server with live reload capability) and then use 'live-server' to run this local-server in browser and debugging all your's code changes (individually through a file index.html).
