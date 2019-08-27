@@ -1,5 +1,5 @@
 # GitFetch-app
-Practice with GitHub Rest Api's for fetch users data(login, repos, location, name, avatar - u can get all provided github api's doc)  using HTML, JavaScript and Materialize CSS. 
+Practice with GitHub Rest Api's for fetch users data (login, repos, location, name, avatar - u can get all provided github api's doc)  using HTML, JavaScript and Materialize CSS. 
 
 First of all you must to get an api github key such as client ID and client secret, cause github must know who's trying to acess the website's data. You can do that using that way https://github.com/settings/apps/new.
 
